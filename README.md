@@ -31,11 +31,19 @@ If you want to know more about me and my journey why I became a web developer, p
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-## My Best Projects 👨‍💻
+## My Best Projects (for now...) 👨‍💻
+<div style="display: flex">
+  
+<img style="width: 33%" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NilsLjungberg&repo=unsplash-infinity-scroll&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NilsLjungberg&repo=unsplash-infinity-scroll&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img style="width: 33%" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NilsLjungberg&repo=robofriends-react&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+  
+<img style="width: 33%" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NilsLjungberg&repo=music-player&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NilsLjungberg&repo=robofriends-react&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<p></p>
+<p>Check them out <a href="https://github.com/NilsLjungberg?tab=repositories">here</a>!</p>
+
+</div>
 
 ## My Contributions 📈
 
