@@ -31,20 +31,6 @@ If you want to know more about me and my journey why I became a web developer, p
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-## My Best Projects (for now...) 👨‍💻
-<div style="display: flex">
-  
-<img style="width: 33%" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NilsLjungberg&repo=gym-tracking-app&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
-<img style="width: 33%" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NilsLjungberg&repo=react-movie-db&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  
-<img style="width: 33%" width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NilsLjungberg&repo=music-player&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
-<p></p>
-<p>Check them out <a href="https://github.com/NilsLjungberg?tab=repositories">here</a>!</p>
-
-</div>
-
 ## My Contributions 📈
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NilsLjungberg&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
