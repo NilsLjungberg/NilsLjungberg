@@ -15,7 +15,7 @@ If you want to know more about me and my journey why I became a web developer, p
 🌐 Web Development  
 💻 Software Development  
 🎨 Design Process/UI Design  
-🌱 I’m currently learning Next.js (React)
+🌱 I’m currently learning Vue.js
 
 
 ## Technologies And Frameworks ✨
