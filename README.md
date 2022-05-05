@@ -6,7 +6,7 @@ My name is [Nils](https://www.nilsjonas.com)
 
 ## About Me 👱🏻
 
-I am a 29 year old web developer with a background in science and sports. I therefore love to engage in any kind of movement practice during my free time, be it strength training, running, swimming or practicing new movement skills such as a handstand. And I love to play sports as well of course! However, if I don't feel like doing any of that, then I love to read books about programming and technology or science-based books related to health and fitness, as well as neuroscience.
+I am a 30 year old software developer with a background in science and sports. I therefore love to engage in any kind of movement practice during my free time, be it strength training, running, swimming or practicing new movement skills such as a handstand. And I love to play sports as well of course! However, if I don't feel like doing any of that, then I love to read books about programming and technology or science-based books related to health and fitness, as well as neuroscience.
 
 If you want to know more about me and my journey why I became a web developer, please visit my [portfolio website](https://nilsjonas.com/about.html).
 
