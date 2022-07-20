@@ -25,6 +25,7 @@ If you want to know more about me and my journey why I became a web developer, p
   <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=css&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-fefeff?style=for-the-badge&logo=vue.js&logoColor=3fae7d" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/bulma-F8F8FF?style=for-the-badge&logo=bulma&logoColor=40E0D0" />
