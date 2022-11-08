@@ -36,7 +36,7 @@ If you want to know more about me and my journey why I became a web developer, p
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NilsLjungberg&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilsLjungberg&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilsLjungberg&theme=vue-dark&hide_border=true&hide_border=true" />
 
 ## Contact Me 🤝
 
